@@ -1,0 +1,16 @@
+{
+	"groups":
+		[
+			{"name":"logo",   "keys":"logo"},
+			{"name":"slider", "keys":"imga,imgb,imgc"}
+		],
+
+	"resources":
+		[
+			{"name":"resource","type":"json","url":"resource.json"},
+			{"name":"logo","type":"image","url":"logo/logo.jpg"},
+			{"name":"imga","type":"image","url":"slider/imga.jpg"},
+			{"name":"imgb","type":"image","url":"slider/imgb.jpg"},
+			{"name":"imgc","type":"image","url":"slider/imgc.jpg"}
+		]
+}

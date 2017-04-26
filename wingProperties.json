@@ -1,0 +1,35 @@
+{
+	"close":false,
+	"natures":["egretProject"],
+	"resourcePlugin":{
+		"configs":[{
+				"configPath":"resource/resource.json",
+				"relativePath":"resource/"
+			}],
+		"id":"org.egret-labs.resource",
+		"library":{
+			"children":[
+				{
+					"isFolder":false,
+					"key":"logo",
+					"name":"logo"
+				},
+				{
+					"isFolder":false,
+					"key":"imga",
+					"name":"imga"
+				},
+				{
+					"isFolder":false,
+					"key":"imgb",
+					"name":"imgb"
+				},
+				{
+					"isFolder":false,
+					"key":"imgc",
+					"name":"imgc"
+				}
+			]
+		}
+	}
+}
